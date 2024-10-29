@@ -522,7 +522,7 @@ Psychologist?
 
 114
 00:08:20,791 --> 00:08:23,543
-Diplom... Diplomat Psychologist.
+Diplom... Psychologist with diploma.
 
 115
 00:08:35,723 --> 00:08:38,434
