@@ -287,7 +287,7 @@ What's that?
 
 68
 00:04:32,957 --> 00:04:34,540
-Looks like a billboard.
+Looks like a advertising column.
 
 69
 00:04:34,749 --> 00:04:36,082
@@ -309,13 +309,11 @@ there.
 
 73
 00:04:43,541 --> 00:04:45,082
-In a
-billboard?
+In a advertising column?
 
 74
 00:04:45,291 --> 00:04:46,791
-No one lives
-there.
+No one lives there.
 
 75
 00:04:46,916 --> 00:04:48,457
@@ -1282,16 +1280,15 @@ They're gone.
 290
 00:15:29,207 --> 00:15:32,248
 This will teach the vegetables
-not to mess with us anymore.
+
 
 291
 00:15:32,332 --> 00:15:34,040
-so nah ans
-Haus zu wagen!
+not to mess with us anymore.
 
 292
 00:15:34,124 --> 00:15:36,082
-Apropos "wagen", I
+Apropos "mess", I
 have something for you.
 
 293
@@ -1335,7 +1332,7 @@ he already skinned them.
 301
 00:15:56,582 --> 00:15:59,207
 He says:
-\"I didn't skin them.
+"I didn't skin them.
 
 302
 00:15:59,332 --> 00:16:01,040
@@ -1352,8 +1349,8 @@ again, I will shoot you right away!" [Laughter]
 
 305
 00:16:06,332 --> 00:16:08,957
-So, now 'mal rein
-in the good parlour.
+So, now enter
+ the good parlour.
 
 306
 00:16:09,124 --> 00:16:12,457
@@ -1424,7 +1421,7 @@ original champagne cooler from
 320
 00:16:48,999 --> 00:16:51,040
 the house of
-\"Von und zu Habsucht”.
+"Von und zu Habsucht”.
 
 321
 00:16:51,207 --> 00:16:53,540
@@ -1447,13 +1444,12 @@ among thousands!
 
 325
 00:17:00,249 --> 00:17:02,124
-\"Von und zu
-Habsucht".
+"Von und zu Habsucht".
 
 326
 00:17:02,582 --> 00:17:04,915
 -Magnificent!
--Fits everything here.
+-Fits well here.
 
 327
 00:17:05,916 --> 00:17:08,374
@@ -1463,7 +1459,7 @@ nobler.
 328
 00:17:08,999 --> 00:17:12,332
 And that's why I'm
-giving you a Nobel Prize.
+giving you a Nobel Price.
 
 329
 00:17:13,166 --> 00:17:15,916
@@ -1579,13 +1575,13 @@ I think you're exaggerating a bit now.
 
 354
 00:18:20,291 --> 00:18:23,916
-No no, with bio- and regular waste
+No no, with oraganic- and regular waste
 there are no compromises for me.
 
 355
 00:18:23,999 --> 00:18:26,707
 [negative sigh]
-That's bio.
+That's oraganic.
 
 356
 00:18:26,791 --> 00:18:28,957
@@ -1623,12 +1619,11 @@ do you mean that?
 363
 00:18:44,499 --> 00:18:45,499
 [quietly]
-Give it here once.
+Give it here.
 
 364
 00:18:45,749 --> 00:18:46,957
-So,
-pay attention!
+So, pay attention!
 
 365
 00:18:47,249 --> 00:18:49,540
@@ -1645,7 +1640,7 @@ The tea
 
 368
 00:18:54,499 --> 00:18:55,665
-is or course organic.
+is of course organic.
 
 369
 00:18:56,124 --> 00:18:57,249
@@ -1666,7 +1661,7 @@ The bag is of
 
 373
 00:19:02,957 --> 00:19:04,957
-course not natural.
+course not oraganic.
 
 374
 00:19:05,041 --> 00:19:06,374
@@ -1702,15 +1697,15 @@ multi-component waste.
 
 381
 00:19:21,332 --> 00:19:22,623
-Wastepaper,
+Waste paper,
 
 382
 00:19:22,957 --> 00:19:24,123
-metal waste,
+waste metal,
 
 383
 00:19:24,416 --> 00:19:25,666
-and old string.
+and waste string.
 
 384
 00:19:26,582 --> 00:19:28,748
@@ -1731,7 +1726,7 @@ Now you are missing the three disposal
 
 388
 00:19:38,707 --> 00:19:41,707
-units for wastepaper, metal waste, and old string.
+units for waste paper, waste metal, and waste string.
 
 389
 00:19:42,624 --> 00:19:44,040
@@ -1846,12 +1841,11 @@ Nöö!
 414
 00:20:51,791 --> 00:20:53,374
 And the little
-lamb asks, "Yes,
+lamb asks, "So,
 
 415
 00:20:53,457 --> 00:20:54,873
-what
-do you want then?"
+what do you want then?"
 
 416
 00:20:54,957 --> 00:20:59,457
@@ -1908,7 +1902,7 @@ friends, through helpfulness,
 
 428
 00:22:24,374 --> 00:22:26,624
-Attention.
+attention,
 and kindness.
 
 429
@@ -2052,7 +2046,7 @@ So, says the little caterpillar to
 
 461
 00:24:24,541 --> 00:24:26,541
-[the two lambs, ominous music]
+the two lambs [ominous music]
 
 462
 00:24:26,749 --> 00:24:28,749
@@ -2064,8 +2058,7 @@ know me, because I
 
 464
 00:24:30,749 --> 00:24:33,165
-am
-Galaxor, the
+am Galaxor, the
 
 465
 00:24:33,249 --> 00:24:34,290
@@ -2124,8 +2117,7 @@ much I love you, little caterpillar.
 
 478
 00:25:02,499 --> 00:25:04,790
-You are allowed to sit on
-my
+You are allowed to sit on my
 
 479
 00:25:04,874 --> 00:25:07,082
@@ -2137,8 +2129,7 @@ the grass, and then I
 
 481
 00:25:09,624 --> 00:25:11,707
-will
-tell you that you are now ripe.
+will tell you that you are now ripe.
 
 482
 00:25:11,791 --> 00:25:13,624
@@ -2222,8 +2213,7 @@ Oh, Otto.
 
 499
 00:25:59,541 --> 00:26:01,207
-Why then
-Benno's Tower?
+Why Benno's Tower?
 
 500
 00:26:01,332 --> 00:26:04,082
@@ -2321,7 +2311,7 @@ Hm, Frauke will be pleased with that.
 
 521
 00:26:56,832 --> 00:26:58,832
-A soup the Friesian way.
+A soup - the Friesian way.
 
 522
 00:26:59,541 --> 00:27:03,457
@@ -2404,8 +2394,7 @@ Och, Schildi!
 
 540
 00:27:51,749 --> 00:27:53,540
-That's
-Frauke's salad!
+That's Frauke's salad!
 
 541
 00:27:53,624 --> 00:27:55,499
@@ -2433,8 +2422,8 @@ the insignificant older
 
 546
 00:28:05,707 --> 00:28:07,957
-brothers, significantly smaller brothers,
-uh,
+brothers, of significantly smaller 
+brothers, uh,
 
 547
 00:28:08,041 --> 00:28:09,999
@@ -2489,7 +2478,7 @@ foot, now we want
 
 559
 00:29:17,499 --> 00:29:18,874
-[to buy one, clinking]
+to buy one [clinking]
 
 560
 00:29:18,957 --> 00:29:19,957
@@ -2626,7 +2615,7 @@ write!
 589
 00:30:31,457 --> 00:30:33,082
 Traveling people,
-beggars, peddlers, write!
+beggars, peddlers. Write!
 
 590
 00:30:33,166 --> 00:30:35,332
@@ -2644,16 +2633,17 @@ Unbelievable,
 
 593
 00:30:40,791 --> 00:30:43,791
-da hat man mal die Chance, das 
- Schwindelgeschäft seine Lebens zu
+Here I gat a unique chance to 
+do a bogus sale
 
 594
 00:30:43,874 --> 00:30:47,249
-machen, und da gibt es Leute, die zur besten  Vertragsunterschriftzeit einfach...
+and some people come at the best time
+for the conclusion of a contract...
 
 595
 00:30:47,374 --> 00:30:48,624
-[Klingel läutet]
+[door bell]
 
 596
 00:30:48,791 --> 00:30:52,124
@@ -2756,7 +2746,7 @@ Benno?
 619
 00:31:54,499 --> 00:31:56,665
 Hears like a dog's name!
-Benno! Wau Wau!
+Benno! Bow-wow!
 
 620
 00:31:57,374 --> 00:32:01,499
@@ -3127,7 +3117,7 @@ Imagine,
 
 704
 00:36:16,666 --> 00:36:18,374
-in here  at 8 o'clock
+in here at 8 o'clock
 
 705
 00:36:18,457 --> 00:36:21,165
@@ -3506,7 +3496,7 @@ I'm going into town.
 787
 00:39:38,207 --> 00:39:40,373
 [Car door slams] And I'll
-take a look at the shop once.
+take a look at the place.
 
 788
 00:39:40,541 --> 00:39:42,291
@@ -3546,7 +3536,7 @@ won't learn it anymore.
 
 796
 00:40:30,749 --> 00:40:33,999
-Abholzer, Plattwalzer, Zubetonierer.
+tree butcher, crusher, cement pourer.
 
 797
 00:40:34,166 --> 00:40:37,332
@@ -3951,11 +3941,11 @@ Champagne!
 886
 00:45:12,249 --> 00:45:14,457
 An exceptionally
-successful demonstration, Mr.
+successful demonstration, 
 
 887
 00:45:14,541 --> 00:45:16,249
-von Devil.
+Mr. von Devil.
 
 888
 00:45:18,457 --> 00:45:20,123
@@ -4055,7 +4045,7 @@ the necessary.
 
 910
 00:46:13,457 --> 00:46:14,582
-Yes sir.
+Yes, sir.
 
 911
 00:46:14,707 --> 00:46:15,915
@@ -4111,7 +4101,7 @@ to the Dirty Disco, 11:30 pm.
 
 923
 00:46:54,999 --> 00:46:56,832
-Identifying feature
+Identifying feature:
 white glove.
 
 924
@@ -4171,8 +4161,7 @@ Florida, you have to find Benno's house.
 
 936
 00:47:31,124 --> 00:47:32,207
-His
-last address.
+His last address.
 
 937
 00:47:32,332 --> 00:47:34,540
@@ -5316,8 +5305,8 @@ supposed to save our homeland, that's why I'm here.
 
 1197
 01:01:48,374 --> 01:01:49,915
-- Madness.
-- Speaking of madness!
+- Hogwash.
+- Speaking of Hogwash!
 
 1198
 01:01:49,999 --> 01:01:51,665
@@ -5357,7 +5346,7 @@ where Benno lives?
 1206
 01:02:03,082 --> 01:02:05,873
 That he's supposed to be
-Benno's brother Madness.
+Benno's brother, hogwash.
 
 1207
 01:02:05,957 --> 01:02:07,790
@@ -5555,7 +5544,7 @@ Mummy is sleeping.
 
 1250
 01:04:43,207 --> 01:04:44,873
--White Hand!
+-White gloves!
 -Hm!
 
 1251
@@ -5654,7 +5643,7 @@ My home is here.
 
 1272
 01:05:47,457 --> 01:05:49,415
-Yours maybe,
+Your home maybe,
 but not your homeland.
 
 1273
@@ -5934,7 +5923,7 @@ And that,
 
 1334
 01:08:39,624 --> 01:08:41,374
-I have to do very urgently.
+I gotta to... very urgently.
 
 1335
 01:08:41,499 --> 01:08:43,290
@@ -6193,8 +6182,7 @@ love nest, this adulterer.
 
 1394
 01:14:38,291 --> 01:14:40,457
-Yes, who lives
-here?
+Well, who lives here?
 
 1395
 01:14:42,874 --> 01:14:44,082
@@ -6231,7 +6219,6 @@ In Benno's office.
 1403
 01:15:24,957 --> 01:15:26,790
 Mister Van Devil, please.
-(Mr. Van Devil, please.)
 
 1404
 01:15:28,166 --> 01:15:29,874
@@ -6456,7 +6443,7 @@ says, my foot has fallen asleep, will it be awake all night?
 
 1456
 01:18:36,082 --> 01:18:38,957
-pharmacy, do you have anything for headaches?
+pharmacy, do you have anything against headaches?
 
 1457
 01:18:39,041 --> 01:18:42,582
@@ -6607,13 +6594,12 @@ is written, whether north,
 
 1492
 01:21:54,832 --> 01:21:57,457
-south,
-west, east, home is
-still "best"!
+south, west, east, home is
+still "eastest"!
 
 1493
 01:21:58,249 --> 01:22:01,332
-And "best of all" has it naturally the
+And "eastest of all" has it naturally the
 
 1494
 01:22:01,457 --> 01:22:03,290
@@ -6867,12 +6853,12 @@ to destroy our homeland.
 1549
 01:24:12,291 --> 01:24:14,416
 [Language in
-Choir] Bio or normal!
+Choir] Organic or normal!
 
 1550
 01:24:15,124 --> 01:24:17,374
 [Language in
-choir] Bio or normal!
+choir] Organic or normal!
 
 1551
 01:24:17,457 --> 01:24:19,332
@@ -7060,7 +7046,7 @@ As an honorary citizen?
 
 1593
 01:27:11,791 --> 01:27:12,874
-My pleasure!
+My honor!
 
 1594
 01:27:12,957 --> 01:27:15,040
@@ -7207,7 +7193,7 @@ Goodbye.
 
 1626
 01:29:18,291 --> 01:29:19,374
-What's up?
+So?
 
 1627
 01:29:27,874 --> 01:29:29,915
@@ -7269,7 +7255,7 @@ that it hurts awfully then,
 1640
 01:30:05,999 --> 01:30:07,499
 says the doctor,
-come on now.
+don't to that.
 
 1641
 01:30:07,582 --> 01:30:09,457
@@ -7279,7 +7265,7 @@ look in our wallet,
 1642
 01:30:09,541 --> 01:30:11,041
 there's a 500 Deutschmark
-note growing there.
+bill growing there.
 
 1643
 01:30:11,124 --> 01:30:12,540
@@ -7291,12 +7277,14 @@ Sister, tongs, Panties!
 
 1645
 01:30:14,957 --> 01:30:17,998
-Professor Doctor Sauerbruch,
-upon viewing a knee injury:
+The doctor to the patient: 
+"I can't find anything. 
+It has to be the alcohol"
 
 1646
 01:30:18,082 --> 01:30:19,457
-That could turn into pus.
+The patient: "Ok, then I come
+back when you are sober."
 
 1647
 01:30:19,541 --> 01:30:23,374
@@ -7315,8 +7303,8 @@ smashed on the ground,
 
 1650
 01:30:28,499 --> 01:30:31,040
-the other was lucky, he
-stayed with his eye on the nail.
+the other was lucky, he was
+stuck with his eye on the nail.
 
 1651
 01:30:31,124 --> 01:30:33,665
@@ -7373,11 +7361,11 @@ you have lived by the highway,
 
 1662
 01:31:05,499 --> 01:31:07,582
-are there any sequelae?
+is there any	subsequent damage?
 
 1663
 01:31:07,666 --> 01:31:10,832
-No! No! No! No!
+Noooo! Nooooo! Noooo! Noooo!
 
 1664
 01:31:11,166 --> 01:31:13,666
@@ -7396,7 +7384,7 @@ They wanted to see the film "Closed for the Winter".
 1667
 01:31:19,957 --> 01:31:24,373
 Every Thursday, all members
-of the Otto Fan Club meet.
+of the Otto Fan Club meet
 
 1668
 01:31:24,457 --> 01:31:25,748
